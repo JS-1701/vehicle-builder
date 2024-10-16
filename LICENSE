@@ -1,55 +1,21 @@
-Overview
-The Vehicle Builder project is a user-friendly application that allows users to create new vehicles or select existing ones. Once a vehicle is selected, users can perform various actions, making it a versatile tool for vehicle management. The application features an intuitive menu system that guides users through the creation and selection processes, as well as the subsequent actions they can take with their vehicles.
+MIT License
 
-Features
-Create New Vehicle: Users can enter specifications to create a vehicle tailored to their needs.
-Select Existing Vehicle: Users can browse and select from previously created vehicles.
-Perform Actions: After selecting a vehicle, users can perform various actions such as viewing details, modifying specifications, and deleting vehicles.
-User-Friendly Menu System: The application returns to the actions menu after each task, allowing for easy navigation until the user chooses to exit.
-Installation
-To set up the Vehicle Builder application locally, follow these steps:
+Copyright (c) 2024 JS-1701
 
-Clone the repository:
-bash
-Copy code
-git clone https://github.com/yourusername/vehicle-builder.git
-Navigate to the project directory:
-bash
-Copy code
-cd vehicle-builder
-Install the required dependencies:
-bash
-Copy code
-npm install
-Start the application:
-bash
-Copy code
-npm start
-Usage
-Launch the application.
-Choose to either create a new vehicle or select an existing one.
-Follow the prompts to enter vehicle details or select from the list.
-Once a vehicle is selected, choose from the available actions to manage the vehicle.
-Continue to perform actions or exit the application when done.
-Contributing
-Contributions are welcome! To contribute to the Vehicle Builder project:
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
 
-Fork the repository.
-Create a new branch for your feature or fix:
-bash
-Copy code
-git checkout -b feature/YourFeatureName
-Commit your changes:
-bash
-Copy code
-git commit -m "Add some feature"
-Push to the branch:
-bash
-Copy code
-git push origin feature/YourFeatureName
-Create a pull request.
-License
-This project is licensed under the MIT License. See the LICENSE file for details.
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
 
-Contact
-For questions or inquiries, please contact first.it.giveth13@gmail.com.
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
