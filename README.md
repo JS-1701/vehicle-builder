@@ -1,6 +1,6 @@
 Overview
 The Vehicle Builder project is a user-friendly application that allows users to create new vehicles or select existing ones. Once a vehicle is selected, users can perform various actions, making it a versatile tool for vehicle management. The application features an intuitive menu system that guides users through the creation and selection processes, as well as the subsequent actions they can take with their vehicles.
-URL to the demo https://app.screencastify.com/v2/manage/videos/6tMz0cuu57czNmx3LmC3
+URL to the demo https://youtu.be/Nmx1GHlxsUg?si=lrB53n6LJgpGU23j
 Features
 Create New Vehicle: Users can enter specifications to create a vehicle tailored to their needs.
 Select Existing Vehicle: Users can browse and select from previously created vehicles.
